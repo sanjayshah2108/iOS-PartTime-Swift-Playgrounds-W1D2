@@ -8,7 +8,7 @@
 //: Say we have a varaible we're going to use to keep track of how many bicycles we own:
 
 var bicycleCount = 100
-
+var x = 0
 //: Now we want to print out a description of the number of bicycles we have:
 
 print("There are \(bicycleCount) bicycles")
